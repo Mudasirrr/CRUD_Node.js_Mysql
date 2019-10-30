@@ -22,7 +22,7 @@
     "express-myconnection": "^1.0.4",
     "express-session": "^1.15.3",
     "express-validator": "^3.2.0",
-    "method-override": "^2.3.9",
+    "method-override": "^3.0.0",
     "mysql": "^2.13.0"
   }
 }
