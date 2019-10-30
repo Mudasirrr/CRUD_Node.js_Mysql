@@ -23,6 +23,6 @@
     "express-session": "^1.15.3",
     "express-validator": "^3.2.0",
     "method-override": "^2.3.9",
-    "mysql": "^2.13.0"
+    "mysql": "^2.14.0"
   }
 }
