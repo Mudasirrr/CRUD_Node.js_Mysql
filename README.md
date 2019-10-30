@@ -1,16 +1,14 @@
-Node.js, Express & MySQL: Simple Add, Edit, Delete, View (CRUD)
+Node.js, Express & MySQL: Simple Add + Edit  + Delete+ View (CRUD)
 ========
 
 A simple and basic CRUD application (Create, Read, Update, Delete) using Node.js, Express, MySQL & EJS Templating Engine.
 
-**Blog:** [Node.js, Express & MySQL: Simple Add, Edit, Delete, View (CRUD)](http://blog.chapagain.com.np/node-js-express-mysql-simple-add-edit-delete-view-crud/)
-
-**Creating database and table**
+##Creating database and table##
 
 ```
-create database test;
+create database Nodejs;
 
-use test;
+use nodejs;
 
 CREATE TABLE users (
 id int(11) NOT NULL auto_increment,
